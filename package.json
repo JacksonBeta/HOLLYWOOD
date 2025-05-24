@@ -1,4 +1,4 @@
-{
+"build": "mkdir -p dist && cp -r client/* dist/"
   "name": "hollywood-weekly-platform",
   "version": "1.0.0",
   "description": "Hollywood Weekly Distribution Platform",
